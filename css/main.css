@@ -1,4 +1,16 @@
 @import url(/sass/base/);
-@import url(/sass/components/);
-@import url(/sass/utils/variables);
+@import url(/sass/components/backdrop);
+@import url(/sass/components/common);
+@import url(/sass/components/footer);
+@import url(/sass/components/_hero.scss);
+@import url(/sass/components/navigation);
+@import url(/sass/components/page-header);
+@import url(/sass/components/section-portfolio);
+@import url(/sass/components/section-team_social-list);
+@import url(/sass/components/section-team);
+@import url(/sass/components/section-third);
+@import url(/sass/components/section-title);
+@import url(/sass/components/section);
+@import url(/sass/utils/_variables.scss);
+@import url(/sass/utils/_placeholders.scss);
 /*# sourceMappingURL=main.css.map */

@@ -1,3 +1,14 @@
-@import url(/sass/base/);
-@import url(/sass/components/);
-@import url(/sass/utils/variables);
+@import './components/backdrop';
+@import './components/common';
+@import './components/footer';
+@import './components/hero';
+@import './components/navigation';
+@import './components/page-header';
+@import './components/section-portfolio';
+@import './components/section-team_social-list';
+@import './components/section-team';
+@import './components/section-third';
+@import './components/section-title';
+@import './components/section';
+@import './utils/variables';
+@import './utils/placeholders';
